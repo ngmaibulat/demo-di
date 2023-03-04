@@ -1,0 +1,21 @@
+{
+    "name": "demo-di",
+    "version": "0.0.1",
+    "description": "",
+    "main": "dist/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node --test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ngmaibulat/demo-di.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ngmaibulat/demo-di/issues"
+    },
+    "homepage": "https://github.com/ngmaibulat/demo-di#readme"
+}
